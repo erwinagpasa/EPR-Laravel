@@ -16,7 +16,7 @@ Thank you for considering contributing to the Electronic Patient Records (EPR)! 
 
 ## Code of Conduct
 
-IPlease review and abide by the [Code of Conduct](https://devph.io/docs/contributions#code-of-conduct).
+Please review and abide by the [Code of Conduct](https://devph.io/docs/contributions#code-of-conduct).
 
 ## Security Vulnerabilities
 
