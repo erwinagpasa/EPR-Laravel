@@ -29,7 +29,7 @@
 		</div>
 		@endif
 	</div>
-	<h5>EPR V1.0</h5>
+	<p>EPR V1.0</p>
 </body>
 
 </html>
