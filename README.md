@@ -20,10 +20,8 @@ IPlease review and abide by the [Code of Conduct](https://devph.io/docs/contribu
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Erwin Agpasa via [root@access000@gmail.com](mailto:root@access000@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within the application, please send an e-mail to Erwin Agpasa via [root@access000@gmail.com](mailto:root@access000@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
 The Electronic Patient Records (EPR) is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-# EPR Laravel
